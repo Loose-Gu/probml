@@ -1,1 +1,3 @@
 # probml
+This is a repo about the notes of [Probabilistic machine learning](https://github.com/probml/pml-book) which is a book series by Kevin Murphy.
+To be continued...
